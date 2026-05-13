@@ -1,10 +1,10 @@
-## Breno Martins
+## ✨ Breno Martins
 Estudante de Engenharia de Produção e entusiasta à programação nas horas vagas. 
 - 🔭 Atualmente trabalhando com Front-End
 - 🌱 Estudando ReactJS
-<br/> <br/> <br/>
+<br/> <br/>
 
-## Principais Linguagens
+## ⚙️ Principais Linguagens
 **Back-End** <br/>
 NodeJS - Phyton
 
